@@ -1,7 +1,7 @@
 ### Yooo 👋, I'm Zafri
 :eyes: I'm looking for <strong>internship opportunities!</strong><br>
 🌱 I'm currently a final year computer science student at Monash University<br>
-📫 Reach me at <a href="mailto:zafrilai@gmail.com">zafrilai@gmail.com</a><br>
+📫 Reach me at <a href="mailto:zafrilai@gmail.com">zafrilai@gmail.com</a>, <a href="www.linkedin.com/in/zafri-t-150a69181">LinkedIn</a><br>
 
 
 <!--
