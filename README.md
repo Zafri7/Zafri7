@@ -1,4 +1,8 @@
-### Hi there 👋
+### Yooo 👋, I'm Zafri
+:eyes: I'm looking for <strong>internship opportunities!</strong><br>
+🌱 I'm currently a final year computer science student at Monash University<br>
+📫 Reach me at <a href="mailto:zafrilai@gmail.com">zafrilai@gmail.com</a><br>
+
 
 <!--
 **Zafri7/Zafri7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
